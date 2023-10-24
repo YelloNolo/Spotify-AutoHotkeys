@@ -1,9 +1,9 @@
 # Spotify AutoHotkeys
- Some autohotkey (.ahk) scripts for controlling spotify playback.
+ Some autohotkey (.ahk) scripts for controlling spotify playback. And others for basic web navigaiton.
 
  >Sometimes Spotify controls do not work when the window is active. The 'Hide Window' key is used to mitigate this issue. (This is a bug I am unable to fix.)
 
-These are some old scripts I sometimes use(d). I was lazy and had GPT3 fill out most the feature lists:
+These are some old scripts I sometimes use(d). I was lazy and had GPT3 fill some of the following out:
 
 ## Script: [miniTab.ahk](/miniTab.ahk)
 
