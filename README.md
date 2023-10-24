@@ -3,7 +3,9 @@
 
  >Sometimes Spotify controls do not work when the window is active. The 'Hide Window' key is used to mitigate this issue. (This is a bug I am unable to fix.)
 
-These are some old scripts I sometimes use(d). I was lazy and had GPT3 fill some of the following out:
+These are some very old scripts I sometimes use(d) and this repo will see little to no updates. Feel free to use as you wish. 
+
+I was lazy and had GPT3 fill parts of the following:
 
 ## Script: [miniTab.ahk](/miniTab.ahk)
 
