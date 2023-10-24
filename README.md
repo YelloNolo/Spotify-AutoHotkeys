@@ -4,7 +4,7 @@
 These are some old scripts I sometimes use. I was lazy and had GPT3 fill out some of the below:
 
 
-## Script: [tab.ahk](blob/main/tab.ahk)
+## Script: [tab.ahk](/tab.ahk)
 
 - **Numpad0**: Pressing Numpad0 activates this hotkey, which simulates pressing `Alt+Tab` to switch between open windows.
 
@@ -26,7 +26,7 @@ These are some old scripts I sometimes use. I was lazy and had GPT3 fill out som
 
 - **Numpad2**: Pressing Numpad2 does nothing (no action is defined).
 
-## Script: [SpotSpy.ahk](blob/main/SpotSpy.ahk)
+## Script: [SpotSpy.ahk](/SpotSpy.ahk)
 
 This script enhances your Spotify music control experience.
 
@@ -44,7 +44,7 @@ This script enhances your Spotify music control experience.
 
 - **PgDn**: Pressing the Page Down key (`PgDn`) toggles the visibility of the Spotify window, similar to PgUp.
 
-## Script: [miniTab.ahk](blob/main/miniTab.ahk)
+## Script: [miniTab.ahk](/miniTab.ahk)
 
 This script provides some convenient shortcuts for multimedia control and tab management.
 
